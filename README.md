@@ -6,4 +6,4 @@ npm run dev
 
 up next...
 
-<https://nextjs.org/learn/basics/dynamic-routes/setup>
+<https://nextjs.org/learn/excel/typescript/nextjs-types>
